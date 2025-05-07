@@ -3,6 +3,7 @@ package Ch_ym;
 import java.util.List;
 import java.util.Scanner;
 
+// 이클립스 커밋 푸쉬 테스트
 public class ChYmController {
 	static Scanner sc = new Scanner(System.in);
 	static ChYmService chYmService = new ChYmService();
